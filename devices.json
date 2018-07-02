@@ -1,0 +1,807 @@
+{
+  "devices": [
+    {
+      "id_device": "00:8c:fa:d1:f8:40",
+      "id_user": "",
+      "date_device": "2018-06-13 01:49:59",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 11,
+          "date_metrics": "2018-06-08 21:08:25"
+        },
+        {
+          "metrics": 83,
+          "date_metrics": "2018-06-29 07:01:25"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:ba:7e:b1",
+      "id_user": "",
+      "date_device": "2018-06-15 15:26:02",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-30 18:28:23"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:9b:e5:b1",
+      "id_user": "",
+      "date_device": "2018-06-22 11:49:35",
+      "name_device": "soundLevelSensor",
+      "type_device": "soundLevelSensor",
+      "values": [
+        {
+          "metrics": 92,
+          "date_metrics": "2018-06-26 14:09:50"
+        },
+        {
+          "metrics": 8,
+          "date_metrics": "2018-06-12 05:44:40"
+        },
+        {
+          "metrics": 6,
+          "date_metrics": "2018-06-03 01:21:00"
+        },
+        {
+          "metrics": 69,
+          "date_metrics": "2018-06-15 22:04:30"
+        },
+        {
+          "metrics": 84,
+          "date_metrics": "2018-06-25 22:03:12"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:08:5f:9a",
+      "id_user": "",
+      "date_device": "2018-06-10 14:34:45",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 93,
+          "date_metrics": "2018-06-04 10:49:12"
+        },
+        {
+          "metrics": 81,
+          "date_metrics": "2018-06-04 23:59:28"
+        },
+        {
+          "metrics": 84,
+          "date_metrics": "2018-06-24 10:12:59"
+        },
+        {
+          "metrics": 60,
+          "date_metrics": "2018-06-09 00:44:11"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:f3:81:38",
+      "id_user": "",
+      "date_device": "2018-06-28 05:56:19",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 88,
+          "date_metrics": "2018-06-16 11:41:04"
+        },
+        {
+          "metrics": 34,
+          "date_metrics": "2018-06-09 00:13:38"
+        },
+        {
+          "metrics": 54,
+          "date_metrics": "2018-06-06 05:39:25"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:c5:e1:33",
+      "id_user": "",
+      "date_device": "2018-06-30 05:47:09",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 93,
+          "date_metrics": "2018-06-28 23:10:54"
+        },
+        {
+          "metrics": 72,
+          "date_metrics": "2018-07-01 07:47:44"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:4d:75:8e",
+      "id_user": "",
+      "date_device": "2018-06-07 22:10:45",
+      "name_device": "beeperDevice",
+      "type_device": "beeperDevice",
+      "values": [
+        {
+          "metrics": 100,
+          "date_metrics": "2018-06-08 13:29:45"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:49:8f:f6",
+      "id_user": "",
+      "date_device": "2018-06-25 10:47:38",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-07 21:58:39"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:68:50:24",
+      "id_user": "",
+      "date_device": "2018-06-29 21:48:04",
+      "name_device": "beeperDevice",
+      "type_device": "beeperDevice",
+      "values": [
+        {
+          "metrics": 75,
+          "date_metrics": "2018-06-20 08:57:27"
+        },
+        {
+          "metrics": 35,
+          "date_metrics": "2018-06-12 02:56:32"
+        },
+        {
+          "metrics": 49,
+          "date_metrics": "2018-06-03 22:36:08"
+        },
+        {
+          "metrics": 78,
+          "date_metrics": "2018-06-02 10:04:45"
+        },
+        {
+          "metrics": 13,
+          "date_metrics": "2018-06-05 05:58:55"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:4f:9d:e9",
+      "id_user": "",
+      "date_device": "2018-06-09 22:29:47",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 34,
+          "date_metrics": "2018-06-06 23:10:57"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:37:5d:99",
+      "id_user": "",
+      "date_device": "2018-06-26 11:41:50",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 75,
+          "date_metrics": "2018-06-16 18:53:17"
+        },
+        {
+          "metrics": 3,
+          "date_metrics": "2018-06-29 06:09:43"
+        },
+        {
+          "metrics": 89,
+          "date_metrics": "2018-06-11 02:57:48"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:fc:cc:99",
+      "id_user": "",
+      "date_device": "2018-06-06 17:09:49",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-14 00:37:54"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-09 21:47:06"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-15 17:57:50"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-20 14:45:43"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:77:4e:59",
+      "id_user": "",
+      "date_device": "2018-06-18 06:27:58",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-05 03:05:28"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-16 13:37:14"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-22 02:01:24"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-12 10:47:23"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-23 13:35:02"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:0d:94:21",
+      "id_user": "",
+      "date_device": "2018-06-25 05:49:20",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 63,
+          "date_metrics": "2018-06-25 11:54:49"
+        },
+        {
+          "metrics": 75,
+          "date_metrics": "2018-06-06 07:40:30"
+        },
+        {
+          "metrics": 92,
+          "date_metrics": "2018-06-16 12:39:17"
+        },
+        {
+          "metrics": 8,
+          "date_metrics": "2018-06-27 14:39:00"
+        },
+        {
+          "metrics": 93,
+          "date_metrics": "2018-06-05 22:24:48"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:e2:ac:b8",
+      "id_user": "",
+      "date_device": "2018-06-26 06:43:59",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 97,
+          "date_metrics": "2018-06-05 12:20:58"
+        },
+        {
+          "metrics": 43,
+          "date_metrics": "2018-06-14 19:12:20"
+        },
+        {
+          "metrics": 34,
+          "date_metrics": "2018-06-17 15:56:35"
+        },
+        {
+          "metrics": 98,
+          "date_metrics": "2018-06-09 02:20:14"
+        },
+        {
+          "metrics": 28,
+          "date_metrics": "2018-06-11 08:19:33"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:51:00:2c",
+      "id_user": "",
+      "date_device": "2018-06-04 05:32:31",
+      "name_device": "soundLevelSensor",
+      "type_device": "soundLevelSensor",
+      "values": [
+        {
+          "metrics": 81,
+          "date_metrics": "2018-06-27 15:37:26"
+        },
+        {
+          "metrics": 54,
+          "date_metrics": "2018-06-20 22:30:45"
+        },
+        {
+          "metrics": 72,
+          "date_metrics": "2018-06-14 17:47:35"
+        },
+        {
+          "metrics": 63,
+          "date_metrics": "2018-06-04 13:47:26"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:93:fa:cd",
+      "id_user": "",
+      "date_device": "2018-06-04 17:10:18",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-09 13:24:10"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-08 13:24:45"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-30 13:46:50"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-28 17:38:03"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-07 22:55:59"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:c8:9f:c5",
+      "id_user": "",
+      "date_device": "2018-06-29 12:10:21",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-08 23:17:04"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-07-01 04:53:15"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:7a:1d:16",
+      "id_user": "",
+      "date_device": "2018-06-04 13:07:50",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-22 02:45:02"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-07-01 11:08:08"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-15 05:54:52"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-29 06:57:39"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-29 21:59:45"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:8f:12:63",
+      "id_user": "",
+      "date_device": "2018-06-03 12:05:41",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 87,
+          "date_metrics": "2018-06-30 00:48:58"
+        },
+        {
+          "metrics": 20,
+          "date_metrics": "2018-06-30 05:38:23"
+        },
+        {
+          "metrics": 63,
+          "date_metrics": "2018-06-20 10:50:14"
+        },
+        {
+          "metrics": 75,
+          "date_metrics": "2018-06-11 19:26:04"
+        },
+        {
+          "metrics": 29,
+          "date_metrics": "2018-06-28 06:23:41"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:71:ba:e3",
+      "id_user": "",
+      "date_device": "2018-06-05 01:07:41",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-19 12:15:57"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-14 04:13:24"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-27 16:03:56"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:13:1e:ea",
+      "id_user": "",
+      "date_device": "2018-06-16 01:42:56",
+      "name_device": "beeperDevice",
+      "type_device": "beeperDevice",
+      "values": [
+        {
+          "metrics": 1,
+          "date_metrics": "2018-06-28 11:53:45"
+        },
+        {
+          "metrics": 94,
+          "date_metrics": "2018-06-12 16:36:51"
+        },
+        {
+          "metrics": 69,
+          "date_metrics": "2018-06-06 14:54:42"
+        },
+        {
+          "metrics": 53,
+          "date_metrics": "2018-06-07 01:14:48"
+        },
+        {
+          "metrics": 10,
+          "date_metrics": "2018-06-28 02:54:03"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:22:c4:b9",
+      "id_user": "",
+      "date_device": "2018-06-15 02:46:25",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 8,
+          "date_metrics": "2018-06-20 03:41:28"
+        },
+        {
+          "metrics": 81,
+          "date_metrics": "2018-06-06 18:06:05"
+        },
+        {
+          "metrics": 82,
+          "date_metrics": "2018-06-04 02:40:15"
+        },
+        {
+          "metrics": 9,
+          "date_metrics": "2018-06-04 02:03:00"
+        },
+        {
+          "metrics": 99,
+          "date_metrics": "2018-06-17 17:28:22"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:63:41:7b",
+      "id_user": "",
+      "date_device": "2018-06-23 11:40:28",
+      "name_device": "co2Sensor",
+      "type_device": "co2Sensor",
+      "values": [
+        {
+          "metrics": 1,
+          "date_metrics": "2018-06-05 04:10:27"
+        },
+        {
+          "metrics": 12,
+          "date_metrics": "2018-06-06 03:12:04"
+        },
+        {
+          "metrics": 83,
+          "date_metrics": "2018-06-15 11:09:51"
+        },
+        {
+          "metrics": 21,
+          "date_metrics": "2018-06-07 16:37:10"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:27:d6:6f",
+      "id_user": "",
+      "date_device": "2018-06-13 06:15:04",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-29 20:04:14"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-22 12:14:54"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-08 21:07:26"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-19 10:17:27"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:8e:0e:8c",
+      "id_user": "",
+      "date_device": "2018-06-16 11:34:24",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-03 12:46:48"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-06 04:44:41"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-11 00:35:17"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-18 09:36:32"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-16 05:16:45"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:f3:2d:c1",
+      "id_user": "",
+      "date_device": "2018-06-15 07:55:46",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-13 05:25:10"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:ff:07:76",
+      "id_user": "",
+      "date_device": "2018-06-27 10:26:31",
+      "name_device": "beeperDevice",
+      "type_device": "beeperDevice",
+      "values": [
+        {
+          "metrics": 6,
+          "date_metrics": "2018-06-10 02:15:06"
+        },
+        {
+          "metrics": 1,
+          "date_metrics": "2018-06-14 17:00:07"
+        },
+        {
+          "metrics": 53,
+          "date_metrics": "2018-06-08 21:40:06"
+        },
+        {
+          "metrics": 28,
+          "date_metrics": "2018-06-04 16:23:15"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:f4:ba:b7",
+      "id_user": "",
+      "date_device": "2018-06-14 01:37:08",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 42,
+          "date_metrics": "2018-06-15 03:53:23"
+        },
+        {
+          "metrics": 9,
+          "date_metrics": "2018-06-19 19:23:36"
+        },
+        {
+          "metrics": 17,
+          "date_metrics": "2018-06-26 12:39:20"
+        },
+        {
+          "metrics": 70,
+          "date_metrics": "2018-06-27 12:47:45"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:0a:ea:0b",
+      "id_user": "",
+      "date_device": "2018-06-19 02:11:01",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 35,
+          "date_metrics": "2018-06-10 08:42:44"
+        },
+        {
+          "metrics": 64,
+          "date_metrics": "2018-06-09 12:19:19"
+        },
+        {
+          "metrics": 34,
+          "date_metrics": "2018-06-15 23:42:06"
+        },
+        {
+          "metrics": 0,
+          "date_metrics": "2018-06-19 23:13:57"
+        },
+        {
+          "metrics": 65,
+          "date_metrics": "2018-06-17 04:45:02"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:b8:bb:e5",
+      "id_user": "",
+      "date_device": "2018-06-03 02:05:40",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 59,
+          "date_metrics": "2018-06-15 12:36:23"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:51:0c:98",
+      "id_user": "",
+      "date_device": "2018-06-23 04:42:52",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 90,
+          "date_metrics": "2018-06-17 05:53:23"
+        },
+        {
+          "metrics": 86,
+          "date_metrics": "2018-06-14 05:39:09"
+        },
+        {
+          "metrics": 62,
+          "date_metrics": "2018-06-28 19:57:47"
+        },
+        {
+          "metrics": 68,
+          "date_metrics": "2018-06-12 07:32:24"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:b1:91:e1",
+      "id_user": "",
+      "date_device": "2018-06-30 17:15:35",
+      "name_device": "beeperDevice",
+      "type_device": "beeperDevice",
+      "values": [
+        {
+          "metrics": 22,
+          "date_metrics": "2018-06-19 19:24:28"
+        },
+        {
+          "metrics": 47,
+          "date_metrics": "2018-06-16 14:05:22"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:4b:6a:e0",
+      "id_user": "",
+      "date_device": "2018-06-13 05:18:46",
+      "name_device": "ledDevice",
+      "type_device": "ledDevice",
+      "values": [
+        {
+          "metrics": 42,
+          "date_metrics": "2018-06-14 17:42:53"
+        },
+        {
+          "metrics": 59,
+          "date_metrics": "2018-06-20 03:55:51"
+        },
+        {
+          "metrics": 43,
+          "date_metrics": "2018-06-11 23:49:34"
+        },
+        {
+          "metrics": 38,
+          "date_metrics": "2018-06-12 11:18:21"
+        },
+        {
+          "metrics": 55,
+          "date_metrics": "2018-06-24 07:42:24"
+        }
+      ]
+    },
+    {
+      "id_device": "00:8c:fa:0f:c4:93",
+      "id_user": "",
+      "date_device": "2018-06-07 01:51:11",
+      "name_device": "gpsSensor",
+      "type_device": "gpsSensor",
+      "values": [
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-15 09:34:46"
+        },
+        {
+          "metrics": "N;46;45;51.4;E;4;50;37.2",
+          "date_metrics": "2018-06-07 01:16:46"
+        }
+      ]
+    }
+  ]
+}
